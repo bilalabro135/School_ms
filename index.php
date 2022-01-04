@@ -11,5 +11,6 @@
 	}
 
 	echo array_count($testarray);
+	echo "Hello World and terminal";
 
  ?>
